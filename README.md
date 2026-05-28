@@ -6,9 +6,7 @@ Learner,
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parash_10)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://tiwariparash.blogspot.com/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/your_channel)
-[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@your_handle)
+
 
 ---
 
