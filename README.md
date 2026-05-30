@@ -1,6 +1,8 @@
 # Hi, I'm Paras Tiwari 👋
 
-Learner,
+BCA Student | Diploma in  Computer Engineering Graduate (9–12) | Web Development | Graphics Designer
+
+
 
 ## Find me on
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parash_10)
