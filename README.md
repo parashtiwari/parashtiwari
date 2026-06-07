@@ -1,6 +1,6 @@
 # Hi, I'm Paras Tiwari 👋
 
-BCA Student | Diploma in  Computer Engineering Graduate (9–12) | Web Development | Graphics Designer
+BCA Student| Web Development | Graphics Designer
 
 
 
